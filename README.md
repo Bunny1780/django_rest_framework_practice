@@ -1,1 +1,1 @@
-# django_rest_framework_practice
+# django_rest_framework_practise
